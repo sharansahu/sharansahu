@@ -1,4 +1,4 @@
-I am a fourth-year driven and detail-oriented student at UC Berkeley studying Computer Science, Applied Mathematics, and Data Science. Academically, my interests lie in high dimensional statistics, statistical learning theory, optimization, and applications to computational pathology. I strive for excellence in everything I do, and I love to work collaboratively to solve complex problems! My technical proficiencies include:
+I am a fourth-year driven and detail-oriented student at UC Berkeley studying Computer Science, Statistics, Applied Mathematics, and Data Science. Academically, my interests lie in high dimensional statistics, statistical learning theory, optimization, and applications to computational pathology.  I strive for excellence in everything I do, and I love to work collaboratively to solve complex problems! My technical proficiencies include:
 
 Programming Languages: Python, Java, C++, C, C#, Dart, HTML, CSS, JavaScript, Linux/Unix
 
@@ -11,6 +11,9 @@ Database: SQL, MongoDB, NoSQL, Oracle
 Tools: IntelliJ IDE, Android Studios, Flutter, Eclipse IDE, JUnit, Atom, Sublime
 
 Methodologies: Agile Software Development, Oriented Design, Objected Oriented Programming, Pair-Programming, Test-Driven Development
+
+Feel free to connect with me! You can also contact me at
+ssahu01@berkeley.edu
 
 <!---
 sharansahu/sharansahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
