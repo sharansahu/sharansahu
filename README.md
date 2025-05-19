@@ -1,4 +1,4 @@
-I am a first year PhD student in Statistics and Data Science at Cornell University. I am a recent graduate of UC Berkeley where I studied Computer Science. My research interests lie in high dimensional statistics, statistical learning theory, optimization, and applications to computational pathology. I strive for excellence in everything I do, and I love to work collaboratively to solve complex problems! My technical proficiencies include:
+I am a second year PhD student in Statistics and Data Science at Cornell University. I am a recent graduate of UC Berkeley where I studied Computer Science. My research interests lie in high dimensional statistics, statistical learning theory, optimization, and applications to computational pathology. I strive for excellence in everything I do, and I love to work collaboratively to solve complex problems! My technical proficiencies include:
 
 Programming Languages: Python, Java, C++, C, C#, Dart, HTML, CSS, JavaScript, Linux/Unix
 
